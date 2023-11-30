@@ -1,5 +1,5 @@
-# Hi ! I'm Go Morishita👋
-### Just 20 years old 
+# Hi! I'm Go Morishita👋
+### Just 19 years old 
 ### Feel free to contact me anytime!👍
 #
 ![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=transparent)
