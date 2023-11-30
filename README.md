@@ -4,7 +4,7 @@
 #
 ![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
