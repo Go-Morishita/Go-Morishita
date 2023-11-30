@@ -7,7 +7,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Go-Morishita&theme=react)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=react)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Languages and Tools
 
