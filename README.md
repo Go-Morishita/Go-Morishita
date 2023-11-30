@@ -13,8 +13,8 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite,c" /> <br /><br />
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=firebase,next" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=next,firebase" /> <br /><br />
