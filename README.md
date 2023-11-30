@@ -2,7 +2,8 @@
 ### Just 19 years old 
 ### Feel free to contact me anytime!👍
 #
-![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=react)
+![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=jolly)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=react)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
