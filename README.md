@@ -2,13 +2,14 @@
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
-![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=react)
+![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&exclude_repo=github-readme-stats,anuraghazra.github.io)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Go-Morishita&theme=dracula)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Go-Morishita&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=balckowl&theme=dracula)
+
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
