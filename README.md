@@ -1,4 +1,4 @@
-# Web Developer in Japan👋
+# Hi my name is Go Morishita👋
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
