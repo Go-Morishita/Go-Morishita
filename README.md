@@ -1,4 +1,4 @@
-# Hi my name is Go Morishita👋
+# Hi! I'm Go Morishita👋
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
