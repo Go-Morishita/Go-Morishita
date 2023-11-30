@@ -2,7 +2,7 @@
 ### Just 20 years old 
 ### Feel free to contact me anytime!👍
 #
-![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=vue-dark)
+![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
