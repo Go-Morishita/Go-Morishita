@@ -2,13 +2,12 @@
 ### Just 19 years old 
 ### Feel free to contact me anytime!👍
 #
-![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=tokyonight)
-![github stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&theme=tokyonight&show_icons=true)
+![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=react)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=react)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Go-Morishita&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Go-Morishita&theme=react)
 
 # Languages and Tools
 
