@@ -8,7 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Go-Morishita&theme=dracula)
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# My Skill
 
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,vercel,html,css,js,typescript,c,java" /> <br /><br />
   
