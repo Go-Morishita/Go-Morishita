@@ -4,7 +4,7 @@
 #
 ![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=tokyonight)
-![github stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita0812&theme=tokyonight&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&theme=tokyonight&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
