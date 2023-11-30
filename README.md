@@ -8,10 +8,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Go-Morishita&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Go-Morishita&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Go-Morishita&theme=dracula)
-
-
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,vercel,html,css,js,typescript,c,java" /> <br /><br />
