@@ -17,4 +17,4 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=next,firebase" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=next,firebase,python" /> <br /><br />
