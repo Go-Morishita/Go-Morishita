@@ -15,6 +15,6 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,nextjs,cpp,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nextjs,typescript,cpp,aws)](https://skillicons.dev)
 
 
