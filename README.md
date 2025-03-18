@@ -13,8 +13,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=jolly)
 
 
-## Skill
+## My Skills
 
-<img src="https://skillicons.dev/icons?i=python,nextjs,cpp,aws" />
+[![My Skills](https://skillicons.dev/icons?i=python,nextjs,cpp,aws)](https://skillicons.dev)
 
 
