@@ -1,7 +1,10 @@
-# Hi! I'm Go Morishita👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
-#
+# Hello I'm Go Morishita👋
+### I am a computer science researcher at Aoyama Gakuin University.
+### My Interests
+- Computer Graphics
+- Cloud Computing
+- Machine Learning
+
 ![Go-Morishita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Go-Morishita&show_icons=true&theme=jolly)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Go-Morishita&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
