@@ -1,6 +1,5 @@
 # Hello I'm Go Morishita👋
-### I am a computer graphics researcher at Aoyama Gakuin University.
-### I am also interested in machine learning and cloud computing.
+### A computer graphics researcher at Aoyama Gakuin University, with additional interests in machine learning and cloud computing.
 
 ## Badges
 
