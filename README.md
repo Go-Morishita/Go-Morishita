@@ -1,6 +1,6 @@
 # Hello I'm Go Morishita👋
-A computer graphics researcher at Aoyama Gakuin University.
-I am also interested in machine learning and cloud computing.
+#### A computer graphics researcher at Aoyama Gakuin University.
+#### I am also interested in machine learning and cloud computing.
 
 ## Badges
 
@@ -13,10 +13,8 @@ I am also interested in machine learning and cloud computing.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Go-Morishita&layout=compact&theme=jolly)
 
 
-# Languages
+## Skill
 
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,vercel,html,css,js,typescript,c,java" /> <br /><br />
-  
-# Others
+<img src="https://skillicons.dev/icons?i=python,nextjs,cpp,aws" />
 
-<img src="https://skillicons.dev/icons?i=next,firebase,python" /> <br /><br />
+
