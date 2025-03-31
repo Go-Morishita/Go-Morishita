@@ -10,7 +10,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,typescript,nextjs,aws)](https://skillicons.dev)
 
-![image](https://github.com/user-attachments/assets/e177cc46-cc4a-4d27-bf4c-497c7667248f)
-
-
-
+## Certifications🏅
+<img src="https://github.com/user-attachments/assets/b5c95b77-487a-490b-aa69-7f5d68dc9682" alt="aws-certified-cloud-practitioner" width="120"/>
