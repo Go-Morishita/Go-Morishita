@@ -1,5 +1,5 @@
 # Hello I'm Go Morishita👋
-![](https://komarev.com/ghpvc/?username=Go-Morishita&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=Go-Morishita&label=Profile%23172views&color=0e75b6&style=flat)
 - A ***computer graphics*** researcher at Aoyama Gakuin University.
 - I am also interested in ***machine learning*** and ***cloud computing***.
 
